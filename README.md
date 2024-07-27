@@ -1,5 +1,6 @@
-# Image-Slider Using Html,CSS & Javascript
-## Key Concepts
+# Image-Slider
+## Html,CSS & Javascript
+## Key Concepts :
 ### querySelectorAll()
 ### addEventListener()
 ### forEach()
