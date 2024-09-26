@@ -1,6 +1,6 @@
 # 🗂️ Image Slider 🏞️ ↔ 🌄 
 ## ✅ Key Concepts :
-### ✅ querySelectorAll()
-### ✅ addEventListener()
-### ✅ forEach()
+### ✅ querySelectorAll( )
+### ✅ addEventListener( )
+### ✅ forEach( )
 ### ✅ if/else statements
