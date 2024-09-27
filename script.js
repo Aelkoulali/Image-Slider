@@ -1,9 +1,11 @@
+// Add variables
 const items = document.querySelectorAll('img');
 const nbSlide = items.length;
 const suivant = document.querySelector('.right');
 const precedent = document.querySelector('.left');
 let count = 0;
 
+// Add function slide
 function slideSuivante(){
     items[count].classList.remove('active');
 
