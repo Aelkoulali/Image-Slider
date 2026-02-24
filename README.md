@@ -1,5 +1,6 @@
 # 🗂️ Image Slider 🏞️ ↔ 🌄 
 ## ✅ Key Concepts :
+### ✅ JavaScript, HTML & CSS
 ### ✅ querySelectorAll( )
 ### ✅ addEventListener( )
 ### ✅ forEach( )
